@@ -51,7 +51,11 @@ h2{
      margin-top: 10px;
      background-color: #fefefe !important;
 }
-@media (max-width:920px) {
+@media (max-width:920px)
+{
+     body{
+          background-color: #3ca55c !important;
+     }
      h2{
           font-size: 20px;
      }
